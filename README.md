@@ -1,7 +1,7 @@
-#Projet Laravel
+# Projet Laravel
 A group project during our first year at ECV Digital school, for the PHP Framework course we had to develop a website with Laravel.
 
-#Initialisation of the projet
+# Initialisation of the projet
 Before to use this project you have to do :
 
 "npm install"
@@ -12,7 +12,7 @@ Before to use this project you have to do :
 "php serve artisan" --> to execute the projet in you don't have apache server
 
 
-#Fonctionalities
+# Fonctionalities
 
 As logged-in Admin = you have access to a dashboard where you can :
 -- see all flights, update a flight, add/delete a flight

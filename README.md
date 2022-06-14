@@ -1,4 +1,4 @@
-# Projet Laravel
+# Laravel Project
 A group project during our first year at ECV Digital school, for the PHP Framework course we had to develop a website with Laravel.
 
 # Initialisation of the projet
